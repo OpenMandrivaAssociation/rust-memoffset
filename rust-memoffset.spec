@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.6.5
-Release:        1
+Release:        2
 Summary:        Offset_of functionality for Rust structs
 
 # Upstream license specification: MIT
